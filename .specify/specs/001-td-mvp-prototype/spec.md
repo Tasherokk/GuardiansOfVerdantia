@@ -84,3 +84,27 @@ As a player, I want the game to have clear win and loss conditions, so that ther
 - **SC-005**: The game MUST consistently maintain a frame rate of 60 FPS or higher during gameplay on the target hardware.
 - **SC-006**: The UI for Mana, Wave Number, and Core Health MUST accurately reflect the game state in real-time.
 - **SC-007**: A clear "Victory" or "Defeat" outcome MUST be presented to the player upon meeting the respective conditions.
+
+## Clarifications
+
+### Session 2025-11-12
+- Q: How should the enemy types and counts change across the 5 waves to create a gradual increase in difficulty? → A: Linear Progression
+- Q: What are the initial mana, mana gain per wave, mana gain per kill, and the costs for each of the three tower types? → A: Simple Economy
+- Q: What are the health and speed values for each of the 3 enemy types? → A: Varied Roles
+- Q: What are the damage, range, and attack speed values for each of the 3 tower types (Thorns, Flames, Winds)? → A: Specialized Stats
+- Q: What level of logging is required for the MVP? → A: Minimal Logging
+
+### Functional Requirements
+- **FR-016**: The game MUST implement minimal logging, focusing only on critical errors and warnings.
+
+### Functional Requirements
+- **FR-015**: The 3 tower types MUST have specialized stats: Thorns (High Dmg): 15 Dmg, 2.5 Range, 1.2 AS; Flames (AoE Focus): 6 Dmg, 3.0 Range, 0.7 AS; Winds (Utility Focus): 4 Dmg, 4.0 Range, 1.5 AS.
+
+### Functional Requirements
+- **FR-014**: The 3 enemy types MUST have varied roles: Enemy 1 (Fast): 40 Health, 3.0 Speed; Enemy 2 (Balanced): 70 Health, 2.0 Speed; Enemy 3 (Tanky): 120 Health, 1.5 Speed.
+
+### Functional Requirements
+- **FR-013**: The player MUST start with 100 Mana, gain 50 Mana per wave, and 5 Mana per enemy kill. All towers MUST cost 50 Mana.
+
+### Functional Requirements
+- **FR-012**: The 5 waves MUST exhibit a linear progression in difficulty, starting with fewer, weaker enemies and gradually increasing in count and introducing stronger enemy types in later waves.
