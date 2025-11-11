@@ -1,0 +1,1 @@
+Placeholder for 6-8 Waypoint GameObjects in Forest01 scene. These would be created and positioned in the Unity Editor.

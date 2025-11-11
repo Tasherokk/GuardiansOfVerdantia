@@ -1,2 +1,37 @@
-Library/
-Temp/
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Ss]napshotComparisons/
+
+# Visual Studio / Rider files
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.sdf
+*.bak
+
+# Asset meta files (optional, depending on workflow)
+# *.meta
+# *.asset
+
+# Other common ignore patterns
+*.tmp
+*.swp
+.vscode/
+.idea/

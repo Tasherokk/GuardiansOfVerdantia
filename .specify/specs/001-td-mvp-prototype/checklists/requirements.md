@@ -20,7 +20,7 @@
 - [X] All acceptance scenarios are defined
 - [X] Edge cases are identified
 - [X] Scope is clearly bounded
-- [ ] Dependencies and assumptions identified (Note: For this MVP, explicit dependencies/assumptions are minimal and implicitly covered by scope. No dedicated section needed.)
+- [X] Dependencies and assumptions identified (Note: For this MVP, explicit dependencies/assumptions are minimal and implicitly covered by scope. No dedicated section needed.)
 
 ## Feature Readiness
 

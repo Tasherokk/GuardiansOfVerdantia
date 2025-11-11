@@ -1,0 +1,1 @@
+Placeholder for designated empty GameObjects for tower placement spots in Forest01 scene. These would be created and positioned in the Unity Editor.

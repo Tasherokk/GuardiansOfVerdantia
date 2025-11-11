@@ -1,0 +1,1 @@
+Placeholder for a basic UI Canvas in Forest01 scene with TextMeshProUGUI elements for Mana, Core Health, and Wave Number. These would be created and configured in the Unity Editor.
