@@ -1,28 +1,19 @@
-# [PROJECT NAME] Development Guidelines
+# Agent Context: [PROJECT_NAME]
 
-Auto-generated from all feature plans. Last updated: [DATE]
+This file provides context to the AI agent about the project's technical stack and conventions.
 
-## Active Technologies
+## Core Technologies
 
-[EXTRACTED FROM ALL PLAN.MD FILES]
+- [Technology 1]
+- [Technology 2]
 
-## Project Structure
+## Key Architectural Patterns
 
-```text
-[ACTUAL STRUCTURE FROM PLANS]
-```
+- [Pattern 1]
+- [Pattern 2]
 
-## Commands
+## Manual Additions
 
-[ONLY COMMANDS FOR ACTIVE TECHNOLOGIES]
-
-## Code Style
-
-[LANGUAGE-SPECIFIC, ONLY FOR LANGUAGES IN USE]
-
-## Recent Changes
-
-[LAST 3 FEATURES AND WHAT THEY ADDED]
-
-<!-- MANUAL ADDITIONS START -->
-<!-- MANUAL ADDITIONS END -->
+<!-- AGENT_CONTEXT_MANUAL_START -->
+<!-- Manual additions go here and will be preserved. -->
+<!-- AGENT_CONTEXT_MANUAL_END -->
