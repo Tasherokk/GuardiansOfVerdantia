@@ -1,0 +1,2 @@
+Placeholder for Thorns Tower Data ScriptableObject asset.
+Damage: 15, Range: 2.5, AttackSpeed: 1.2, SpecialAbility: Slow

@@ -1,0 +1,2 @@
+Placeholder for Winds Tower Data ScriptableObject asset.
+Damage: 4, Range: 4.0, AttackSpeed: 1.5, SpecialAbility: Knockback

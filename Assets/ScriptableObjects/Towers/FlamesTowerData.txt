@@ -1,0 +1,2 @@
+Placeholder for Flames Tower Data ScriptableObject asset.
+Damage: 6, Range: 3.0, AttackSpeed: 0.7, SpecialAbility: AoE

@@ -1,0 +1,2 @@
+Placeholder for EnemyType3 ScriptableObject asset.
+Health: 120, Speed: 1.5, ManaOnKill: 5
