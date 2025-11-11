@@ -141,11 +141,11 @@ try {
         throw "Git not available"
     }
 } catch {
-    $repoRoot = $fallbackRoot
+    $repoRoot = Get-Location -Path . | Select-Object -ExpandProperty Path
     $hasGit = $false
 }
 
-Set-Location $repoRoot
+Set-Location ([System.IO.Path]::GetFullPath($repoRoot))
 
 $specsDir = Join-Path $repoRoot 'specs'
 New-Item -ItemType Directory -Path $specsDir -Force | Out-Null
