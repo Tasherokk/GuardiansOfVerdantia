@@ -148,13 +148,15 @@ Examples of foundational tasks (adjust based on your project):
 
 ## Phase N: Polish & Cross-Cutting Concerns
 
-**Purpose**: Improvements that affect multiple user stories
+**Purpose**: Improvements that affect multiple user stories, aligned with our constitution.
 
-- [ ] TXXX [P] Documentation updates in docs/
-- [ ] TXXX Code cleanup and refactoring
-- [ ] TXXX Performance optimization across all stories
-- [ ] TXXX [P] Additional unit tests (if requested) in tests/unit/
-- [ ] TXXX Security hardening
+- [ ] TXXX [P] **Code Quality**: Run static analysis and address all reported issues.
+- [ ] TXXX **Code Quality**: Conduct final code review for readability and maintainability.
+- [ ] TXXX **Comprehensive Testing**: Verify test coverage meets project standards.
+- [ ] TXXX **Comprehensive Testing**: Add missing unit/integration tests.
+- [ ] TXXX **UX Consistency**: Perform a final UI/UX review against the style guide.
+- [ ] TXXX **Performance**: Execute performance benchmark tests and address regressions.
+- [ ] TXXX [P] Documentation updates in docs/.
 - [ ] TXXX Run quickstart.md validation
 
 ---

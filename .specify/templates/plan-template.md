@@ -31,7 +31,10 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+- **Code Quality**: Does the plan account for code reviews and adherence to standards?
+- **Comprehensive Testing**: Are unit, integration, and regression tests included for all new features and fixes?
+- **User Experience Consistency**: Does the plan respect the project's design system and style guide?
+- **Strict Performance Standards**: Does the plan include performance testing to meet benchmarks?
 
 ## Project Structure
 
